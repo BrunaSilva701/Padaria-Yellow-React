@@ -1,10 +1,25 @@
 # Carrinho de compras
 
 ## Funcionalidades
-- Carrinho de compras (adicionar e retirar produtos)
-- Mudança de linguagem (pt/eng)
-- Mudança de tema (dark/light)
-- Login
+- Carrinho de compras (adicionar e remover produtos)
+- Internacionalização (Português/Inglês)
+- Alternância de tema (Light/Dark)
+- Autenticação simulada (Mock Authentication)
+
+## Tecnologias
+- React
+- Context API
+- React Hooks
+- CSS Modules
+- Lucide React
+- Vite
+
+## Pré-Visualização
+<kbd>
+<img src="./src/assets/visualizacao.png" alt="pré-visulização do site" width="540px" />
+</kbd>
+
+[![Link do site](https://img.shields.io/badge/Link%20do%20Site%20%20-EDD83B?style=for-the-badge)](https://brunasilva701.github.io/Padaria-Yellow-React/)
 
 ## Criar projeto React
 ````npm create vite@latest [nome da pasta]````
@@ -46,10 +61,3 @@ export default defineConfig({
 6.Utilliza ``npm run deploy`` para rodar o deploy
 
 7.Em pages no GitHub direcionar a página para a branch ``gh-pages``
-
-## Pré-Visualização
-<kbd>
-<img src="./src/assets/visualizacao.png" alt="pré-visulização do site" width="540px" />
-</kbd>
-
-[![Link do site](https://img.shields.io/badge/Link%20do%20Site%20%20-EDD83B?style=for-the-badge)](https://brunasilva701.github.io/Padaria-Yellow-React/)
