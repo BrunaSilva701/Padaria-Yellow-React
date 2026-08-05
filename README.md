@@ -52,4 +52,4 @@ export default defineConfig({
 <img src="./src/assets/visualizacao.png" alt="pré-visulização do site" width="540px" />
 </kbd>
 
-[![Link do site](https://img.shields.io/badge/Link%20do%20Site%20%20-EDD83B?style=for-the-badge)](https://brunasilva701.github.io/Todo-List-com-Formulario-Modal/)
+[![Link do site](https://img.shields.io/badge/Link%20do%20Site%20%20-EDD83B?style=for-the-badge)](https://brunasilva701.github.io/Padaria-Yellow-React/)
