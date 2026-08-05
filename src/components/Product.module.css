@@ -1,0 +1,29 @@
+.product{
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap: 10px;
+    margin:30px 70px;
+}
+
+.product.light{
+    background: #F0F0F0;
+}
+
+.product.dark{
+    background: #1A1A1A;
+}
+
+.button{
+    padding: 10px;
+    border: 1px solid;
+    margin: 10px;
+    background:#fbe53e;
+}
+
+.button:hover{
+    background:#e5cc0a;
+}

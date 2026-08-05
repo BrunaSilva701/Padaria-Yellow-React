@@ -1,0 +1,16 @@
+.login{
+    padding: 10px;
+    margin:30px 70px;
+}
+
+.button{
+    padding: 10px;
+    border: 1px solid var;
+    margin: 10px;
+    background:#fbe53e;
+}
+
+.button:hover{
+   background:#e5cc0a;
+    
+}

@@ -1,0 +1,23 @@
+.cart{
+    margin: 20px;
+    padding: 20px;
+   
+}
+
+.title{
+    margin: 20px 70px;
+    display: flex;
+    padding: 10px;
+}
+
+.button{
+    padding: 10px;
+    border: 1px solid var;
+    margin: 10px;
+    background:#fbe53e;
+}
+
+.button:hover{
+   background:#e5cc0a;
+    
+}
