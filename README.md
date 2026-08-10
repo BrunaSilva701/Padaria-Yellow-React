@@ -1,10 +1,13 @@
-# Carrinho de compras
+# Padaria Yellow 🥐
 
 ## Funcionalidades
 - Carrinho de compras (adicionar e remover produtos)
 - Internacionalização (Português/Inglês)
 - Alternância de tema (Light/Dark)
 - Autenticação simulada (Mock Authentication)
+
+## Objetivo
+Aprender o uso de componentes
 
 ## Tecnologias
 - React
